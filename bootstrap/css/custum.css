@@ -1,0 +1,39 @@
+.navbar-inverse{
+	background:url('../images/hx_bg.gif') repeat-x;
+	height:76px;
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus{
+	color:#C3E2FF;
+	background:none;
+	font-size:18px;
+}
+.navbar-nav{
+	position:relative;
+	z-index:999999;
+}
+.in .navbar-nav{
+	background:#fff !important;
+}
+.navbar-nav a:hover{
+	color:#FF5750 !important;
+}
+.dropdown-menu{
+	background:#C3E2FF;
+}
+.logo{
+	background:url('../images/hx_logo_3d.jpg');
+	height:75px;
+	width:220px;
+}
+.container img{
+	width:100%;
+}
+.footer{
+	background:url('../images/hx_bg.gif') repeat-x;
+	height:76px;
+}
+.footer p{
+	color:#C3E2FF;
+	font-size:18px;
+	padding-top:20px;
+}
